@@ -1,0 +1,8 @@
+.resultado{
+    width: 300px;
+    margin: 12px 0px;
+    padding: 5px 12px;
+    border-radius: 8px;
+    text-align: center;
+    background: #e7e7e7;
+}
